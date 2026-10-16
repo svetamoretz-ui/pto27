@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /_build/
+
+Sitemap: https://pto27.ru/sitemap.xml
